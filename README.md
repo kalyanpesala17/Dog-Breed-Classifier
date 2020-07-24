@@ -1,5 +1,5 @@
 # Dog Breed Classifier
-It is implemented by using keras library.
+It is implemented by using keras library. Main findings are communicated in a [blog](https://medium.com/@kalyanpesala17/project-walkthrough-on-convolution-neural-networks-using-transfer-learning-e83afe5cd4e6)
 
 
 ## Project Overview
